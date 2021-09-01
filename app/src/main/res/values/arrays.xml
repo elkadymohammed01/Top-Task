@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_array">
+        <item>close</item>
+        <item>Note</item>
+        <item>Delete</item>
+        <item>later</item>
+        <item>Edit</item>
+        <item>sent</item>
+
+    </string-array>
+
+</resources>
